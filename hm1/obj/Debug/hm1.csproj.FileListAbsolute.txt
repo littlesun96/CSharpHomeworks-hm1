@@ -1,0 +1,6 @@
+E:\Юля\Университет\3 курс\6 семестр\C#\Projects\hm1\hm1\bin\Debug\hm1.exe.config
+E:\Юля\Университет\3 курс\6 семестр\C#\Projects\hm1\hm1\bin\Debug\hm1.exe
+E:\Юля\Университет\3 курс\6 семестр\C#\Projects\hm1\hm1\bin\Debug\hm1.pdb
+E:\Юля\Университет\3 курс\6 семестр\C#\Projects\hm1\hm1\obj\Debug\hm1.csprojResolveAssemblyReference.cache
+E:\Юля\Университет\3 курс\6 семестр\C#\Projects\hm1\hm1\obj\Debug\hm1.exe
+E:\Юля\Университет\3 курс\6 семестр\C#\Projects\hm1\hm1\obj\Debug\hm1.pdb
